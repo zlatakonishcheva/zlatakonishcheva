@@ -1,5 +1,9 @@
-### Hi there 👋
+## Hi there 👋 I am Data scientist
 
+Connect with me:
+
+* e-mail: zlatakonishcheva@gmail.com 
+* telegram: @zlata_ko
 <!--
 **zlatakonishcheva/zlatakonishcheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
