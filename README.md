@@ -1,9 +1,19 @@
-## Hi there 👋 I am Data scientist
+# Hi there 👋 I am Data scientist
 
-Connect with me:
+How to reach me:
 
 * e-mail: zlatakonishcheva@gmail.com 
 * telegram: @zlata_ko
+
+## Мои проекты:
+
+|Название |Описание|Библиотеки|
+|:--------|:-------|:---------|
+|[Прогнозирование поведения клиента оператора связи](https://github.com/zlatakonishcheva/clients_classifier)|Прогнозирование оттока клиентов на основе их персональных данных, информации о тарифах и договорах| *pandas numpy seaborn matplotlib scipy sklearn catboost*|
+|[Проект для «Викишоп»](https://github.com/zlatakonishcheva/comments_classifier)|Классификация комментариев на нейтральные и токсичные для дальнейшего отправление последних на модерацию |*pandas matplotlib sklearn nltk wordcloud*|
+|[Проект для сервиса заказа такси](https://github.com/zlatakonishcheva/taxi_predictor)|Прогнозирование количества заказов такси на следующий час|*pandas numpy statsmodels matplotlib sklearn*|
+
+
 <!--
 **zlatakonishcheva/zlatakonishcheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
