@@ -12,7 +12,7 @@ How to reach me:
 |[Прогнозирование поведения клиента оператора связи](https://github.com/zlatakonishcheva/clients_classifier)|Прогнозирование оттока клиентов на основе их персональных данных, информации о тарифах и договорах| *pandas numpy seaborn matplotlib scipy sklearn catboost*|
 |[Проект для «Викишоп»](https://github.com/zlatakonishcheva/comments_classifier)|Классификация комментариев на нейтральные и токсичные для дальнейшего отправление последних на модерацию |*pandas matplotlib sklearn nltk wordcloud*|
 |[Проект для сервиса заказа такси](https://github.com/zlatakonishcheva/taxi_predictor)|Прогнозирование количества заказов такси на следующий час|*pandas numpy statsmodels matplotlib sklearn*|
-|[Прогнозирование электропотребления](https://github.com/zlatakonishcheva/predict_energy)|Построение почасового прогноза по потреблению электроэнергии на следующие 2 недели на основе данных за 9 месяцев |*pandas numpy matplotlib sklearn statsmodels*|
+|[Прогнозирование электропотребления](https://github.com/zlatakonishcheva/predict_energy)|Построение почасового прогноза по потреблению электроэнергии на следующие 2 недели на основе данных за 9 месяцев используя модель класса *ARIMA* |*pandas numpy matplotlib sklearn statsmodels*|
 
 
 <!--
